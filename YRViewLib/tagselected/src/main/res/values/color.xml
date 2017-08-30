@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 主色 -->
+    <color name="main">#ff5000</color>
+    <!-- 登录页等白色背景颜色 -->
+    <color name="white">#ffffff</color>
+    <!-- 表单提示文字颜色 -->
+    <color name="hint_text">#cccccc</color>
+</resources>

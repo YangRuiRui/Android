@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--多选控件-->
+    <declare-styleable name="CheckView">
+        <attr name="cvType" format="integer" />
+    </declare-styleable>
+</resources>
